@@ -38,7 +38,12 @@ data/
 
 ## Results
 
-Training typically achieves **85-92% test accuracy** in ~10-15 minutes.
+| Metric | Value |
+|--------|-------|
+| Test Accuracy | 87.50% |
+| Test Loss | 0.3842 |
+
+![Model Accuracy and Loss](images/model_accuracy_and_loss.png)
 
 ## Requirements
 
